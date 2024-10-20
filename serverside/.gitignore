@@ -1,3 +1,5 @@
 Hotel_Reviews.csv
 /__pychache__
 hotelModelPickle.pkl
+hotelModel2.pkl
+truthHotels.pkl
